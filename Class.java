@@ -1,4 +1,4 @@
 Hello Team
-Welcome to updated java 
+Welcome to Java
 Git commands
 end
